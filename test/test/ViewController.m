@@ -23,7 +23,12 @@
     NSLog(@"""dwafafaqqfafa");
 
     NSLog(@"""dwafafaqqfafa");
-
+    
+    NSString *asfa;
+    
+    
+    NSInteger (Fawfawfaf);
+    
     // Do any additional setup after loading the view.
 }
 
