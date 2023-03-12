@@ -25,7 +25,8 @@
     NSLog(@"""dwafafaqqfafa");
     
     NSString *asfa;
-    
+    NSLog(@"""dwafafaqqfwwwwwafa");
+
     
     NSInteger (Fawfawfaf);
     NSLog(@"""dwafafaqqfafa");
