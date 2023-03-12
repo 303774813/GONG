@@ -22,6 +22,7 @@
     
     NSLog(@"""dwafafaqqfafa");
 
+    kHIDUsage_WD_DataWeight
     NSLog(@"""dwafafaqqfafa");
     
     NSString *asfa;
